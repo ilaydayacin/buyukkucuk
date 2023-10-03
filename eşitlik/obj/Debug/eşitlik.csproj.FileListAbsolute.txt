@@ -1,0 +1,10 @@
+C:\Users\Win10\Desktop\ilkay py\c\eşitlik\eşitlik\bin\Debug\eşitlik.exe.config
+C:\Users\Win10\Desktop\ilkay py\c\eşitlik\eşitlik\bin\Debug\eşitlik.exe
+C:\Users\Win10\Desktop\ilkay py\c\eşitlik\eşitlik\bin\Debug\eşitlik.pdb
+C:\Users\Win10\Desktop\ilkay py\c\eşitlik\eşitlik\obj\Debug\eşitlik.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\ilkay py\c\eşitlik\eşitlik\obj\Debug\eşitlik.Form1.resources
+C:\Users\Win10\Desktop\ilkay py\c\eşitlik\eşitlik\obj\Debug\eşitlik.Properties.Resources.resources
+C:\Users\Win10\Desktop\ilkay py\c\eşitlik\eşitlik\obj\Debug\eşitlik.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\ilkay py\c\eşitlik\eşitlik\obj\Debug\eşitlik.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\ilkay py\c\eşitlik\eşitlik\obj\Debug\eşitlik.exe
+C:\Users\Win10\Desktop\ilkay py\c\eşitlik\eşitlik\obj\Debug\eşitlik.pdb
